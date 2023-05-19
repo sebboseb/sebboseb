@@ -33,4 +33,4 @@
 
 [twitter]: https://twitter.com/sebboseb_
 [instagram]: https://instagram.com/sebhallqvist
-[linkedin]: linkedin.com/in/seb-hallqvist
+[linkedin]: https://linkedin.com/in/seb-hallqvist
