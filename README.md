@@ -1,7 +1,7 @@
 ### Hi, I'm Sebastian
 
 <!-- ## I'm a Full Stack Developer -->
-## 🦍
+##
 
 <!-- - 🦍 Gorilla-->
 
