@@ -19,16 +19,6 @@
 <img align="left" alt="Next" width="26px" src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" />
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 
-<br />
-
-### Socials:
-
-[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-<br />
-
 ---
 
 
